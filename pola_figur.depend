@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1685974636 source:c:\users\pc-dom\desktop\pola_figur\main.cpp
+	<iostream>
+	<windows.h>
+	<string>
+
+1685974636 source:c:\users\pc-dom\desktop\pola_figur_gorczynski_franek\main.cpp
+	<iostream>
+	<windows.h>
+	<string>
+
